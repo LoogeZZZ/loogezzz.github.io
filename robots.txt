@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+User-agent: Yandex
+Disallow: /page3.html
+
+User-agent: Googlebot
+Disallow: /page1.html
+
+User-agent: bingbot 
+Disallow: /page1.html
+Disallow: /page2.txt
