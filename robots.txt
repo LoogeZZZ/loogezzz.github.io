@@ -10,3 +10,5 @@ Disallow: /page1.html
 User-agent: bingbot 
 Disallow: /page1.html
 Disallow: /page2.txt
+
+sitemap: https://loogezzz.github.io/sitemap
